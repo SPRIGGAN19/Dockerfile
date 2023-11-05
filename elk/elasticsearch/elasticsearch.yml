@@ -1,0 +1,3 @@
+cluster.name: mycluster
+node.name: "mycluster-node-01"
+discovery.type: single-node
